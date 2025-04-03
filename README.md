@@ -1,7 +1,6 @@
 # Radix Sort for Strings using Doubly Linked List
 
-### 👨‍💻 Author: Obayda Sarraj  
-### 🆔 Student ID: 1211128
+### 👨‍💻 Author: Obayda Sarraj 
 
 ---
 
